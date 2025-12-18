@@ -1,0 +1,30 @@
+2025-12-18 05:34:46 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 05:34:51 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 05:34:58 - LOGIN OK - username=admin ip=::1
+2025-12-18 05:35:15 - LOGIN FAIL - user not found - username=mahasiswa ip=::1
+2025-12-18 05:35:17 - LOGIN OK - username=admin ip=::1
+2025-12-18 05:36:33 - LOGIN OK - username=admin ip=::1
+2025-12-18 05:36:49 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 05:37:00 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:11:03 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:11:13 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:13:03 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:22:49 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:22:53 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:26:43 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 06:26:50 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:28:17 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 06:29:24 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 06:30:13 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:30:40 - LOGIN FAIL - wrong password - username=mhs ip=::1
+2025-12-18 06:30:48 - LOGIN OK - username=admin ip=::1
+2025-12-18 06:31:14 - LOGIN OK - username=mhs ip=::1
+2025-12-18 06:31:37 - LOGIN OK - username=mhs ip=::1
+2025-12-18 06:32:30 - LOGIN OK - username=admin ip=::1
+2025-12-18 08:49:57 - LOGIN OK - username=admin ip=::1
+2025-12-18 08:50:28 - LOGIN OK - username=mhs ip=::1
+2025-12-18 08:50:36 - LOGIN OK - username=admin ip=::1
+2025-12-18 09:03:40 - LOGIN OK - username=mhs ip=::1
+2025-12-18 09:05:01 - LOGIN OK - username=admin ip=::1
+2025-12-18 09:13:37 - LOGIN OK - username=mhs ip=::1
+2025-12-18 09:24:47 - LOGIN OK - username=admin ip=::1
